@@ -71,6 +71,9 @@ This dashboard is a **must-have** for anyone looking to elevate their financial 
     - Remove clutter (titles, legends) and align colors for a professional look.
     - Ensure the dashboard dynamically updates with slicer selections for real-time insights.
 
+![Balance-sheet-dashboard](assets/dashboard_balance-sheet.gif)
+
+
 ## Value Packed: Why This Dashboard Shines
 
 - **Interactive & User-Friendly**: Slicers enable effortless month-by-month analysis, making data exploration intuitive.
